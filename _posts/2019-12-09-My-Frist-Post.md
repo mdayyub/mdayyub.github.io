@@ -1,9 +1,9 @@
 ---
 title: "My First Content"
 categories:
-  - Post Formats
+  - test
 tags:
-  - Post Formats
+  - test
   - quote
 ---
 
