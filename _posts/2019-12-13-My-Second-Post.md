@@ -1,7 +1,7 @@
 ---
-title: "My First Content"
+title: "My Second Content"
 categories:
-  - test
+  - charts
 tags:
   - highcharts
 ---
